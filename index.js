@@ -1,2 +1,2 @@
 // Write your code in this file!
-currentUser = 'Crazy Horse';
+const currentUser = 'Crazy Horse';
